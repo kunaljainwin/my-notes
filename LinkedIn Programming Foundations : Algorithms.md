@@ -10,3 +10,17 @@ Because Algorithms are designed to work on data it is important to measure perfo
 ### Computational Algorithms
 Eg. is a Number Prime number
 ### Collection Algorithm
+
+## Types of Data structures
+Node, collection of data
+### Stacks Last in First Out
+Expression Processibg
+backtracking
+### Queues First in first out
+Order processing
+messaging
+
+Use list for implementing stack in python but collections has deque() to implement queue
+
+
+
